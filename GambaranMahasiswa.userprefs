@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Tika Taka\Assets\Scripts\LevelScript.cs">
+    <Files>
+      <File FileName="..\Tika Taka\Assets\Scripts\LevelScript.cs" Line="111" Column="2" />
+      <File FileName="..\Tika Taka\Assets\Scripts\DecideScript.cs" Line="53" Column="36" />
+      <File FileName="..\Tika Taka\Assets\Scripts\help.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
